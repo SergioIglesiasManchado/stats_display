@@ -1,0 +1,12 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.user
+*.suo
+*.vcxproj.*
+*.ipch
+*.db
+*.cache
+*.vs/
